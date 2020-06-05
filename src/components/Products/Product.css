@@ -4,6 +4,9 @@
     margin: 0px 10px 5px 0px;
     padding-bottom: 5px;
 }
+.product_image img{
+    padding-right: 2rem;
+}
 .product-name {
     color: blue;
     font-weight: 400;
